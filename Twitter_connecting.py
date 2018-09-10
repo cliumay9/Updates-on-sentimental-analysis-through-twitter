@@ -1,4 +1,5 @@
 #Tweeting.py
+# Tweeting.py is a script to obtain data from tweepy to json.
 
 from tweepy import Stream
 from tweepy import OAuthHandler
