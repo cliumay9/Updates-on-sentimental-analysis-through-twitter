@@ -1,4 +1,6 @@
 #sentiment_mod.py
+# apply NLTK model on our data, output sentiment of a text.
+
 import nltk
 import random
 
